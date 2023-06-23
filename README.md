@@ -12,12 +12,20 @@ Installation parameters: `pip install disnake`
 9 | activity_text = "Text"
 ```
 Replace `Text` with the text you want to be displayed in the bot status.
+Example:
+```
+9 | activity_text = "It will be my status!"
+```
 
 <b>config.py</b>
 ```
 2 | "bot_token": "token"
 ```
 Replace `token` with your bot's secret token.
+Example:
+```
+2 | "bot_token": "ITwIllbEmyTOkeN"
+```
 <hr>
 <h3>How to get bot token:</h3>
 
