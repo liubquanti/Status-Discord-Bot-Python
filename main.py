@@ -12,7 +12,7 @@ class Bot(commands.InteractionBot):
 
         await self.change_presence(activity=activity)
 
-        print("MidTak: Bot started")
+        print("System: Bot started!")
 
 
 def main():
