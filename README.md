@@ -7,7 +7,7 @@ Installation parameters: `pip install disnake`
 <hr>
 <h1>Code to change:</h1>
 
-# <b>main.py</b>
+<b>main.py</b>
 
 ```
 9 | activity_text = "Text"
@@ -18,7 +18,7 @@ Example:
 9 | activity_text = "It will be my status!"
 ```
 
-# <b>config.py</b>
+<b>config.py</b>
 
 ```
 2 | "bot_token": "token"
