@@ -1,12 +1,13 @@
 # Status-Discord-Bot-Python
 Very simple Discord bot with custom gaming status.
 <hr>
-<h3>API to install:</h3>
+<h1>API to install:</h1>
 
 Installation parameters: `pip install disnake`
 <hr>
-<h3>Code to change:</h3>
-<b>main.py</b>
+<h1>Code to change:</h1>
+
+# <b>main.py</b>
 
 ```
 9 | activity_text = "Text"
@@ -17,7 +18,7 @@ Example:
 9 | activity_text = "It will be my status!"
 ```
 
-<b>config.py</b>
+# <b>config.py</b>
 
 ```
 2 | "bot_token": "token"
@@ -28,7 +29,8 @@ Example:
 2 | "bot_token": "ITwIllbEmyTOkeN"
 ```
 <hr>
-<h3>How to get bot token:</h3>
+<h1>How to get bot token:</h1>
 
 You can get the token by going to your bot settings on this website: [Applications](https://discord.com/developers/applications).
+<br>
 More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
