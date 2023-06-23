@@ -18,6 +18,7 @@ Example:
 ```
 
 <b>config.py</b>
+
 ```
 2 | "bot_token": "token"
 ```
