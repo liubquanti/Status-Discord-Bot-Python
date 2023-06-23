@@ -22,3 +22,4 @@ Replace `token` with your bot's secret token.
 <h3>How to get bot token:</h3>
 
 You can get the token by going to your bot settings on this website: [Applications](https://discord.com/developers/applications).
+More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
