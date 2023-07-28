@@ -37,7 +37,7 @@ You can get the token by going to your bot settings on this website: [Applicatio
 More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
 
 # Status-Discord-Bot-Python
-<img src="https://i.postimg.cc/Dz8xXK3G/UA.png" height="50px">
+<img src="https://i.postimg.cc/YCXX0CZk/UA.png" height="50px">
 Very simple Discord bot with custom gaming status.
 <hr>
 <h1>API to install:</h1>
