@@ -1,4 +1,4 @@
-# Status-Discord-Bot-Python
+# Status Discord Bot Python
 <img src="https://i.postimg.cc/Dz8xXK3G/GB.png" height="50px">
 Very simple Discord bot with custom gaming status.
 <hr>
@@ -36,7 +36,7 @@ You can get the token by going to your bot settings on this website: [Applicatio
 <br>
 More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
 
-# Status-Discord-Bot-Python
+# Статус Discord боту на Python
 <img src="https://i.postimg.cc/YCXX0CZk/UA.png" height="50px">
 Дуже простий Discord бот з кастомним ігровим статусом.
 <hr>
