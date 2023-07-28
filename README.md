@@ -1,5 +1,4 @@
-<img src="https://i.postimg.cc/Dz8xXK3G/GB.png" height="50px"> | <img src="https://i.postimg.cc/YCXX0CZk/UA.png" height="50px">
-
+<img src="https://i.postimg.cc/Dz8xXK3G/GB.png" height="50px">
 # Status Discord Bot Python
 
 Very simple Discord bot with custom gaming status.
