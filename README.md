@@ -38,8 +38,6 @@ You can get the token by going to your bot settings on this website: [Applicatio
 <br>
 More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
 
-<hr>
-<hr>
 <img src="https://i.postimg.cc/YCXX0CZk/UA.png" height="50px">
 
 # Статус для Discord бота на Python
