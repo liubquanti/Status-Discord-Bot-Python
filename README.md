@@ -1,4 +1,5 @@
 # Status-Discord-Bot-Python
+<img src="https://i.postimg.cc/Dz8xXK3G/GB.png" height="50px">
 Very simple Discord bot with custom gaming status.
 <hr>
 <h1>API to install:</h1>
