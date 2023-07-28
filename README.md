@@ -1,5 +1,7 @@
-# Status Discord Bot Python
 <img src="https://i.postimg.cc/Dz8xXK3G/GB.png" height="50px">
+
+# Status Discord Bot Python
+
 Very simple Discord bot with custom gaming status.
 <hr>
 <h1>API to install:</h1>
@@ -38,9 +40,10 @@ More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
 
 <hr>
 <hr>
-
-# Статус Discord боту на Python
 <img src="https://i.postimg.cc/YCXX0CZk/UA.png" height="50px">
+
+# Статус для Discord бота на Python
+
 Дуже простий Discord бот з кастомним ігровим статусом.
 <hr>
 <h1>API яке потрібно інсталювати:</h1>
