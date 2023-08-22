@@ -76,4 +76,3 @@ More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
 Ви можете отримати токен в налаштуваннях вашого бота на цьому сайті: [Applications](https://discord.com/developers/applications).
 <br>
 Більше: [Discord Developer Platform](https://discord.com/developers/docs/intro)
-
