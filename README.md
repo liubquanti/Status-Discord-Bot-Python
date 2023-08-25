@@ -40,12 +40,10 @@ Example:
 You can get the token by going to your bot settings on this website: [Applications](https://discord.com/developers/applications).
 <br>
 More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
-
-
-  </tr>
-</table>
-
-<img src="https://i.postimg.cc/YCXX0CZk/UA.png" height="50px">
+/
+    </td>
+    <td>
+      <img src="https://i.postimg.cc/YCXX0CZk/UA.png" height="50px">
 
 # Статус для Discord бота на Python
 
@@ -84,3 +82,6 @@ More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
 Ви можете отримати токен в налаштуваннях вашого бота на цьому сайті: [Applications](https://discord.com/developers/applications).
 <br>
 Більше: [Discord Developer Platform](https://discord.com/developers/docs/intro)
+    </td>
+  </tr>
+</table>
