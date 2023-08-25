@@ -44,7 +44,7 @@ More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
     <td>
       <img src="https://i.postimg.cc/YCXX0CZk/UA.png" height="50px">
 
-# Статус для Discord бота на Python
+# Статус Discord бот на Python
 
 Дуже простий Discord бот з кастомним ігровим статусом.
 <hr>
