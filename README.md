@@ -1,4 +1,7 @@
-<img src="https://i.postimg.cc/Dz8xXK3G/GB.png" height="50px">
+<table>
+  <tr>
+    <td>
+      <img src="https://i.postimg.cc/Dz8xXK3G/GB.png" height="50px">
 
 # Status Discord Bot Python
 
@@ -37,6 +40,10 @@ Example:
 You can get the token by going to your bot settings on this website: [Applications](https://discord.com/developers/applications).
 <br>
 More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
+
+
+  </tr>
+</table>
 
 <img src="https://i.postimg.cc/YCXX0CZk/UA.png" height="50px">
 
