@@ -1,5 +1,5 @@
 <table>
-  <tr>
+  <tr VALIGN=TOP>
     <td>
       <img src="https://i.postimg.cc/Dz8xXK3G/GB.png" height="50px">
 
@@ -40,7 +40,6 @@ Example:
 You can get the token by going to your bot settings on this website: [Applications](https://discord.com/developers/applications).
 <br>
 More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
-/
     </td>
     <td>
       <img src="https://i.postimg.cc/YCXX0CZk/UA.png" height="50px">
