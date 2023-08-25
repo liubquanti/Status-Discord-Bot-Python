@@ -48,11 +48,11 @@ More: [Discord Developer Platform](https://discord.com/developers/docs/intro)
 
 Дуже простий Discord бот з кастомним ігровим статусом.
 <hr>
-<h1>API яке потрібно інсталювати:</h1>
+<h1>API до інсталяції:</h1>
 
 Параметри інсталяції: `pip install disnake`
 <hr>
-<h1>Код, який потрібно змінити:</h1>
+<h1>Код до  заміни:</h1>
 
 <b>main.py</b>
 
